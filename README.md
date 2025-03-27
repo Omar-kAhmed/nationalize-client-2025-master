@@ -1,2 +1,2 @@
 # nationalize-client-2025-master
-Review Assignment Due Date
+Java class library to estimate the nationality of a person based on a last name.
